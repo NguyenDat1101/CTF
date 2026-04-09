@@ -1,4 +1,4 @@
-#WRITE UP
+# WRITE UP
 kết nối vào `nc foggy-cliff.picoctf.net 65204`
 sẽ xuất hiện một chuỗi
 
